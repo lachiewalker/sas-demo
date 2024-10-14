@@ -1,0 +1,51 @@
+ID,age,income,region,employment_status,weight,height,education_level
+1,25,55000,Urban,Employed,70,1.75,Bachelor's
+2,34,62000,Suburban,Employed,80,1.80,Master's
+3,29,0,Rural,Unemployed,65,1.65,High School
+4,45,75000,Urban,Employed,85,1.78,PhD
+5,52,50000,Rural,Employed,90,1.70,High School
+6,19,0,Urban,Unemployed,60,1.60,High School
+7,31,48000,Suburban,Employed,75,1.82,Bachelor's
+8,27,0,Urban,Unemployed,68,1.70,Bachelor's
+9,38,68000,Rural,Employed,95,1.75,Master's
+10,42,0,Suburban,Unemployed,88,1.77,High School
+11,23,52000,Urban,Employed,72,1.68,Bachelor's
+12,36,0,Rural,Unemployed,85,1.73,High School
+13,28,61000,Suburban,Employed,78,1.76,Master's
+14,41,0,Urban,Unemployed,82,1.69,High School
+15,33,70000,Rural,Employed,90,1.80,PhD
+16,26,0,Suburban,Unemployed,65,1.72,Bachelor's
+17,39,58000,Urban,Employed,77,1.74,Master's
+18,24,0,Rural,Unemployed,70,1.68,High School
+19,30,63000,Suburban,Employed,80,1.78,Bachelor's
+20,47,0,Urban,Unemployed,85,1.75,High School
+21,22,54000,Rural,Employed,68,1.65,Bachelor's
+22,35,0,Suburban,Unemployed,90,1.80,High School
+23,29,66000,Urban,Employed,75,1.70,Master's
+24,40,0,Rural,Unemployed,88,1.73,High School
+25,32,72000,Suburban,Employed,82,1.77,PhD
+26,21,0,Urban,Unemployed,60,1.62,High School
+27,37,59000,Rural,Employed,85,1.76,Bachelor's
+28,25,0,Suburban,Unemployed,70,1.68,High School
+29,34,64000,Urban,Employed,78,1.74,Master's
+30,43,0,Rural,Unemployed,90,1.70,High School
+31,27,56000,Suburban,Employed,73,1.75,Bachelor's
+32,38,0,Urban,Unemployed,80,1.68,High School
+33,29,67000,Rural,Employed,85,1.77,Master's
+34,44,0,Suburban,Unemployed,88,1.72,High School
+35,31,73000,Urban,Employed,76,1.80,PhD
+36,20,0,Rural,Unemployed,65,1.65,High School
+37,40,60000,Suburban,Employed,80,1.78,Bachelor's
+38,28,0,Urban,Unemployed,70,1.70,High School
+39,36,71000,Rural,Employed,85,1.75,Master's
+40,46,0,Suburban,Unemployed,90,1.73,High School
+41,24,55000,Urban,Employed,68,1.66,Bachelor's
+42,39,0,Rural,Unemployed,80,1.72,High School
+43,30,62000,Suburban,Employed,75,1.74,Master's
+44,45,0,Urban,Unemployed,85,1.70,High School
+45,33,74000,Rural,Employed,90,1.78,PhD
+46,19,0,Suburban,Unemployed,60,1.65,High School
+47,34,58000,Urban,Employed,77,1.76,Bachelor's
+48,26,0,Rural,Unemployed,70,1.68,High School
+49,37,65000,Suburban,Employed,82,1.80,Master's
+50,42,0,Urban,Unemployed,88,1.73,High School
